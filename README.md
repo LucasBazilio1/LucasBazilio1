@@ -2,8 +2,8 @@
 
 **`Estudante de Defesa Cibernética`**
 
-Me chamo Lucas Bazílio, tenho 22 anos e resido em Alagoas.
-Atualmente estou no 3º período de Defesa Cibernética.
+Me chamo Lucas Bazílio, tenho 22 anos e resido em Alagoas.  
+Atualmente estou no 3º período de Defesa Cibernética.  
 Na área de programação estou estudando HTML, CSS, JS e C++.
 
 ---
